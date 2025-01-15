@@ -1,6 +1,6 @@
 name = "slave"
 main = "src/index.js"
-`Cashy@disroot.org's Account`: `5e4e9b6f66397635cf5b9b82b681c69a`
+CLOUDFLARE_ACCOUNT_ID = `Cashy@disroot.org's Account`: `5e4e9b6f66397635cf5b9b82b681c69a`
 compatibility_date = "2024-10-22"
 compatibility_flags = ["nodejs_compat"]
 [observability]
